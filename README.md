@@ -1,86 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Your+Name;Full+Stack+Engineer;Based+in+Your+Location" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Your%20Name&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Your%20Location&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F4FF,100:1F6FEB&height=200&section=header&text=Your%20Name&fontSize=46&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Your%20Location&descAlignY=55&descSize=18">
+</picture>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/open%20to-collab-1F6FEB?style=for-the-badge" />
+
 </div>
 
 <br/>
 
-```yaml
-name: "Your Name"
-role: "Full Stack Engineer"
-location: "Your Location"
-focus: ["Web Apps", "APIs", "Cloud Infra"]
-currently_learning: "Something New"
-reach_me: "you@example.com"
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 👋 About
+
+Full stack engineer who likes building clean, fast web apps end to end — from database schema to pixel-perfect UI. Currently exploring **something new**, always down to collaborate on interesting projects.
+
+```ts
+const stef: Developer = {
+  role: "Full Stack Engineer",
+  location: "Your Location",
+  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
+  currentlyLearning: "Something New",
+  funFact: "Something interesting about you",
+};
 ```
 
-<br/>
-
-## 🧩 Stack
-
-| | |
-|---|---|
-| **Languages** | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Database** | ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
-<br/>
-
-## 📈 Activity
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Total Contributions**
-<h2>1,234</h2>
-<sub>Jan 2023 – Present</sub>
-
 </td>
-<td width="33%" align="center">
+<td width="40%" valign="top" align="center">
 
-**Current Streak**
-<h2>🔥 0</h2>
-<sub>Day 0 – Day 0</sub>
+### 📊 Snapshot
 
-</td>
-<td width="33%" align="center">
-
-**Longest Streak**
-<h2>0</h2>
-<sub>Month DD – Month DD</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF" width="100%"/>
-
 <br/>
 
-## 🗂️ Featured Work
+<div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Project One](https://github.com/yourusername/project-one)** | One-line description of what it does | `React` `Node` `MongoDB` |
-| **[Project Two](https://github.com/yourusername/project-two)** | One-line description of what it does | `Next.js` `TypeScript` |
-| **[Project Three](https://github.com/yourusername/project-three)** | One-line description of what it does | `Python` `Flask` |
+### 🧰 Tech Stack
 
-<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,supabase,docker,aws,vercel,figma,git,github&theme=dark&perline=9" />
 
-## 🔗 Connect
-
-| Platform | Handle |
-|---|---|
-| 📷 Instagram | [@yourusername](https://instagram.com/yourusername) |
-| ✉️ Email | [you@example.com](mailto:you@example.com) |
-| 💼 LinkedIn | [/in/yourusername](https://linkedin.com/in/yourusername) |
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
+</div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+views&color=1F6FEB&style=flat-square" />
+
+### 🔥 Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="65%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF" width="100%"/>
+
+</div>
+
+<br/>
+
+### 🗂️ Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[Project One](https://github.com/yourusername/project-one)**
+<br/>One-line description of what it does and why it's cool.
+<br/><br/>
+![React](https://img.shields.io/badge/-React-1F6FEB?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node-1F6FEB?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[Project Two](https://github.com/yourusername/project-two)**
+<br/>One-line description of what it does and why it's cool.
+<br/><br/>
+![Next](https://img.shields.io/badge/-Next.js-1F6FEB?style=flat-square&logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-1F6FEB?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🔗 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:F0F4FF&height=100&section=footer">
+</picture>
+
 </div>
