@@ -18,13 +18,6 @@
 Frontend Engineer who likes building clean, fast web apps end to end — from database schema to pixel-perfect UI. Currently exploring **something new**, always down to collaborate on interesting projects.
 
 
-const erom: Developer = {
-  role: "Frontend Engineer",
-  location: "Taguig",
-  stack: ["TypeScript", "React", "Next.js"],
-};
-
-
 </td>
 <td width="40%" valign="top" align="center">
 
