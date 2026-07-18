@@ -7,8 +7,17 @@
 
 </div>
 
+
 <br/>
 
+```ts
+const erin: Developer = {
+  role: "Frontend Engineer",
+  location: "Taguig",
+  stack: ["TypeScript", "React", "Next.js", "Figma", "Supabase" ,"Git"],
+};
+
+```
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
