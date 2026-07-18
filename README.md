@@ -32,7 +32,7 @@ Frontend Engineer who likes building clean, fast web apps end to end — from da
 
 ### 📊 Snapshot
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mickaachu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
 
 </td>
 </tr>
