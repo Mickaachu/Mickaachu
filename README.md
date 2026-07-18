@@ -54,9 +54,9 @@ Frontend Engineer who likes building clean, fast web apps end to end — from da
 
 ### 🔥 Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaachu&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaachu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF" width="100%"/>
 
 </div>
 
