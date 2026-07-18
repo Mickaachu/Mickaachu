@@ -1,9 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Your%20Name&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Your%20Location&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F4FF,100:1F6FEB&height=200&section=header&text=Your%20Name&fontSize=46&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20Your%20Location&descAlignY=55&descSize=18">
-</picture>
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
 &nbsp;
@@ -19,17 +15,15 @@
 
 ### 👋 About
 
-Full stack engineer who likes building clean, fast web apps end to end — from database schema to pixel-perfect UI. Currently exploring **something new**, always down to collaborate on interesting projects.
+Frontend Engineer who likes building clean, fast web apps end to end — from database schema to pixel-perfect UI. Currently exploring **something new**, always down to collaborate on interesting projects.
 
-```ts
-const stef: Developer = {
-  role: "Full Stack Engineer",
-  location: "Your Location",
-  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
-  currentlyLearning: "Something New",
-  funFact: "Something interesting about you",
+
+const erom: Developer = {
+  role: "Frontend Engineer",
+  location: "Taguig",
+  stack: ["TypeScript", "React", "Next.js"],
 };
-```
+
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -64,30 +58,7 @@ const stef: Developer = {
 
 </div>
 
-<br/>
 
-### 🗂️ Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[Project One](https://github.com/yourusername/project-one)**
-<br/>One-line description of what it does and why it's cool.
-<br/><br/>
-![React](https://img.shields.io/badge/-React-1F6FEB?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node-1F6FEB?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Two](https://github.com/yourusername/project-two)**
-<br/>One-line description of what it does and why it's cool.
-<br/><br/>
-![Next](https://img.shields.io/badge/-Next.js-1F6FEB?style=flat-square&logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-1F6FEB?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -95,10 +66,9 @@ const stef: Developer = {
 
 ### 🔗 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erinmichacapuchino23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erin-capuchino)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://erin-capuchino.vercel.app/)
 
 <br/><br/>
 
